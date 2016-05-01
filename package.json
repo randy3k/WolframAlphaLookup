@@ -1,6 +1,6 @@
 {
-  "name": "Wolfram|Alpha Lookup",
-  "description": "",
+  "name": "WolframAlpha Lookup",
+  "description": "Lets you look up whatever you currently have selected on Wolfram|Alpha.",
   "author": "Paul Chesnais",
   "homepage": "https://github.com/PapaCharlie/WolframAlphaLookup",
   "details": "https://github.com/PapaCharlie/WolframAlphaLookup",
