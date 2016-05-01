@@ -1,0 +1,13 @@
+{
+  "name": "Wolfram|Alpha Lookup",
+  "description": "",
+  "author": "Paul Chesnais",
+  "homepage": "https://github.com/PapaCharlie/WolframAlphaLookup",
+  "details": "https://github.com/PapaCharlie/WolframAlphaLookup",
+  "releases": [
+    {
+      "details": "https://github.com/colinta/SublimeClipboardManager/tags",
+      "sublime_text": ">=3000"
+    }
+  ]
+}
