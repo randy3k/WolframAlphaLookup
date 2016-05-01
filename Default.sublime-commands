@@ -1,0 +1,13 @@
+[
+    {
+        "caption": "Wolfram: Lookup",
+        "command": "wolfram"
+    },{
+        "caption": "Wolfram: Add key",
+        "command": "open_file",
+        "args":
+        {
+            "file": "${packages}/User/Preferences.sublime-settings"
+        }
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "id": "selection",
+        "children":
+        [
+        	{"caption" : "-"},
+            { "command": "wolfram", "caption": "Wolfram Lookup", "mnemonic": "W" }
+        ]
+    }
+]
