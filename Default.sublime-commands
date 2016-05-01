@@ -2,12 +2,5 @@
     {
         "caption": "Wolfram: Lookup",
         "command": "wolfram_alpha_lookup"
-    },{
-        "caption": "Wolfram: Add key",
-        "command": "open_file",
-        "args":
-        {
-            "file": "${packages}/User/Preferences.sublime-settings"
-        }
     }
 ]
