@@ -1,6 +1,6 @@
 [
   {
-    "command": "wolfram",
+    "command": "wolfram_alpha_lookup",
     "keys": [
       "ctrl+alt+a"
     ]

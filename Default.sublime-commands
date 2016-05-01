@@ -1,7 +1,7 @@
 [
     {
         "caption": "Wolfram: Lookup",
-        "command": "wolfram"
+        "command": "wolfram_alpha_lookup"
     },{
         "caption": "Wolfram: Add key",
         "command": "open_file",

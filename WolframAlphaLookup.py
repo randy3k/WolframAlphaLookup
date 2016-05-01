@@ -2,7 +2,7 @@ import sublime, sublime_plugin, requests
 
 from xml.etree import ElementTree as ET
 
-class WolframCommand(sublime_plugin.WindowCommand):
+class WolframAlphaLookupCommand(sublime_plugin.WindowCommand):
     def run(self):
         settings = sublime.load_settings("Preferences.sublime-settings") 
         if settings.has("wolfram_api_key"):
