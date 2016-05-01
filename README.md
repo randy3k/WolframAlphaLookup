@@ -10,7 +10,9 @@ Setup
 ------------------
 
 Please add this to your `Preferences.sublime-settings`:
-	"wolfram_api_key": "%API_KEY%"
+```
+"wolfram_api_key": "%API_KEY%"
+```
 
 Shortcut Keys
 ------------------
