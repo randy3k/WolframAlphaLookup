@@ -13,8 +13,9 @@ Please add this to your `Preferences.sublime-settings`:
 ```
 "wolfram_api_key": "%API_KEY%"
 ```
+HINT: You can access the file from the menu through `Preferences/Settings - User`.
+
 You can make and account and acquire an API key from the [Wolfram|Alpha Developer Portal](https://developer.wolframalpha.com/portal/).
-HINT: You can access the file from the menu through `Preferences/Settings - User`
 
 Shortcut Keys
 ------------------
